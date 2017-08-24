@@ -381,7 +381,7 @@ public class ModoDeJuego {
            return false;
         }
         
-        //metodo de ganar
+        //metodo de ganar en le cual se realiza la opcion de ganar
         public boolean Victoria()
         {
             boolean bandera=false;
